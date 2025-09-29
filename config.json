@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://iqilu.vercel.app/",
+  "baseUrl": "https://iqilu-pink.vercel.app",
   "blacklistNames": ["CCTV", "中央一套", "金山防盗链", "测试"],
   "blacklistOrgIds": [21, 29]
 }
